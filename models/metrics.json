@@ -1,0 +1,42 @@
+{
+  "model_version": "1.0.0",
+  "trained_at": "2026-11-12T23:39:29+00:00",
+  "train_rows": 3024,
+  "test_rows": 1114,
+  "test_period": [
+    "2022-12-11 07:55:00",
+    "2022-12-17 16:30:00"
+  ],
+  "model": {
+    "mae": 4.858,
+    "rmse": 6.56
+  },
+  "seasonal_baseline": {
+    "mae": 5.552,
+    "rmse": 7.682
+  },
+  "mae_improvement_vs_baseline": 0.694,
+  "quality_gate_passed": true,
+  "lots": [
+    "Lot01",
+    "Lot02",
+    "Lot03",
+    "Lot04",
+    "Lot05",
+    "Lot06",
+    "Lot07",
+    "Lot08",
+    "Lot09"
+  ],
+  "capacities": {
+    "Lot01": 863,
+    "Lot02": 387,
+    "Lot03": 1194,
+    "Lot04": 849,
+    "Lot05": 470,
+    "Lot06": 220,
+    "Lot07": 687,
+    "Lot08": 1200,
+    "Lot09": 720
+  }
+}
