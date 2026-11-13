@@ -6,7 +6,7 @@ An end to end machine learning service that forecasts parking lot occupancy and 
 
 ## Why This Exists
 
-The companion analysis, [parking-occupancy-analysis](https://github.com/TheSavage007/parking-occupancy-analysis), found that the city's parking problem is distribution, not capacity. At the weekday midday peak one lot has about 6 open spaces while another has more than 500. This service turns that finding into something a sign, an app, or a city dashboard can call.
+The companion analysis, [parking-occupancy-analysis](https://github.com/TheSavage007/parking-occupancy-analysis), found that the plaza's parking problem is distribution, not capacity. At the weekday midday peak one lot has about 6 open spaces while another has more than 500. This service turns that finding into something a sign, an app, or a property dashboard can call.
 
 ## Architecture
 

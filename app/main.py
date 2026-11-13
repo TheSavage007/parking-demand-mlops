@@ -17,7 +17,7 @@ from parking_mlops.predict import load_model, predict, recommend
 app = FastAPI(
     title="Parking Demand Forecast API",
     version=__version__,
-    description="Forecasts occupancy and open spaces for nine city parking lots.",
+    description="Forecasts occupancy and open spaces for nine plaza parking lots.",
 )
 
 

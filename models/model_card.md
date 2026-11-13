@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Forecast the occupancy rate and open spaces for each of nine city parking lots at a given date and time, so drivers and signage can be steered toward lots with room.
+Forecast the occupancy rate and open spaces for each of nine plaza parking lots at a given date and time, so drivers and signage can be steered toward lots with room.
 
 ## Model
 
@@ -10,7 +10,7 @@ Scikit-learn pipeline: one hot encoded lot code plus calendar features (day of w
 
 ## Training Data
 
-4,138 readings from nine lots, November 20 to December 17, 2022, roughly every 30 minutes from 8:00 to 16:30. Source: the parking occupancy case from DAT/565 at the University of Phoenix.
+4,138 readings from nine lots, November 20 to December 17, 2022, roughly every 30 minutes from 8:00 to 16:30. Source: plaza parking occupancy data from Bradenton, Florida, which I analyzed for the plaza owner.
 
 ## Evaluation
 
